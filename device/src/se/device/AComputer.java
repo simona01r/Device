@@ -5,7 +5,7 @@ public class AComputer extends Device {
     public AComputer( double price) {
         super(price);
     }
-
+//jgjgj
     @Override
     public double discount(int amount) {
         setAmount(amount);
